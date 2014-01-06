@@ -1,4 +1,4 @@
-Hello World
+Akka 2.2.3 Bootstrap Project
 =======
 
 This is the Akka 2.2.3 obilgatory Hello World example from here:
